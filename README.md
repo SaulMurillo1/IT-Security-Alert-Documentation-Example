@@ -13,8 +13,11 @@ This project is shown as an example of the documentation that system/network adm
 
 <p align="left">
 <h3>Mozilla Releases Security Updates for Firefox 110 and Firefox ESR</h3>
-<br/>
-<br/>
+<br />
+
+<h3>IT Security Alert</h3>
+
+Disclaimer: This publication contains links to outside information sources. These links are provided for convenience and do not indicate our endorsement of the linked site, nor gaurantee that the information therein remains current or accurate. 
 
 <br />
 <br />
