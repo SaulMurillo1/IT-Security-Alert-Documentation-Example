@@ -12,7 +12,8 @@ This project is shown as an example of the documentation that system/network adm
 <h2>Project:</h2>
 
 <p align="left">
-<h3><p style="color: skyblue">Mozilla Releases Security Updates for Firefox 110 and Firefox ESR</p></h3>
+<h3>Mozilla Releases Security Updates for Firefox 110 and Firefox ESR</h3>
+  
 <br />
 
 <h3>IT Security Alert</h3>
