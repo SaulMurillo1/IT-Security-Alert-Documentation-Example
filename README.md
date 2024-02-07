@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-This project is shown as an example of the documentation that system/network administators may recieve when a security risk arises in their organization. The document includes sections such as a summary, details, products impacted, solution, and sources & additional reading links. Documentation such as this one is important to an organization for security reasons, and also may assist system/network administrators with providing valuable information regarding the resource that is impacted. 
+This project is shown as an example of the documentation/notification that system or network administators may recieve when a security risk arises in their organization. The document includes sections such as a summary, details, products impacted, solution, and sources & additional reading links. Documentation such as this document, which I created, is important to an organization for security purposes and may also assist system/network administrators with providing valuable information regarding the resource that is impacted. 
 <br />
 <br />
 <br />
@@ -12,14 +12,12 @@ This project is shown as an example of the documentation that system/network adm
 <h2>Project:</h2>
 
 <p align="left">
-<h3>Mozilla Releases Security Updates for Firefox 110 and Firefox ESR</h3>
-  
+<br/>
+<img src="https://i.imgur.com/b3vwZ67.png" height="80%" width="80%" alt="IT Security Alert Documentation" class="center"/>
 <br />
-
-<h3>IT Security Alert</h3>
-
-Disclaimer: This publication contains links to outside information sources. These links are provided for convenience and do not indicate our endorsement of the linked site, nor gaurantee that the information therein remains current or accurate. 
-
+<img src="https://i.imgur.com/YLUFsBD.png" height="80%" width="80%" alt="IT Security Alert Documentation" class="center"/>
+<br />
+<img src="https://i.imgur.com/h5mXiHT.png" height="80%" width="80%" alt="IT Security Alert Documentation" class="center"/>
 <br />
 <br />
 <br />
