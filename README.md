@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-This project is shown as an example of the documentation/notification that system or network administators may recieve when a security risk arises in their organization. The document includes sections such as a summary, details, products impacted, solution, and sources & additional reading links. Documentation such as this one is important to an organization for security purposes and may also assist system & network administrators with providing valuable information regarding the resource that is impacted. 
+This project is shown as an example of the documentation/notification that system or network administators may recieve when a security risk arises in their organization. The document includes sections such as a summary, details, products impacted, solution, and sources & additional reading links. Documentation such as this one is important to an organization for security purposes and may also assist system & network administrators by providing valuable information regarding the resource that is impacted. 
 <br />
 <br />
 <br />
